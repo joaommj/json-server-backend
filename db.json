@@ -519,18 +519,18 @@
       "id": 37
     },
     {
-      "model": "ABC",
+      "model": "AAFA 24 TEST",
       "category": "Run",
       "color": "Yellow",
       "size": "M",
-      "weight": "13",
+      "weight": "1",
       "material": "Carbon",
-      "price": "123",
-      "picture_url": "https://res.cloudinary.com/dzne6fm6i/image/upload/v1742995518/ihoqa9t0hduykd2ybxrb.webp",
-      "picture_detailed_url": "https://res.cloudinary.com/dzne6fm6i/image/upload/v1742995519/k137wwfdfkrqzsqk9yvl.webp",
-      "general_description": "qw",
-      "extras": "we",
-      "id": 38
+      "price": "1500",
+      "picture_url": "https://res.cloudinary.com/dzne6fm6i/image/upload/v1743004324/oue3v302ctqxjgme9jjo.avif",
+      "picture_detailed_url": "https://res.cloudinary.com/dzne6fm6i/image/upload/v1743004324/mkrrraqx9iqsnrozs7up.webp",
+      "general_description": "afsgvc",
+      "extras": "sadvf fdvcszx",
+      "id": 39
     }
   ],
   "categories": [
@@ -555,13 +555,13 @@
     {
       "id": 4,
       "name": "Child",
-      "category_url": "https://media.istockphoto.com/id/486696697/pt/foto/rapariga-de-bicicleta-de-equita%C3%A7%C3%A3o.jpg?s=612x612&w=0&k=20&c=IDKLb2UQlWET-KFfoBymo28G-oK-NLC3VKKsaxHmihw=",
+      "category_url": "https://www.sportzentrum-noe.at/cached-images/fc945b9af7dad6421d5099b9b513512d_w1900_h700_cp.jpg",
       "link": "/category/Child"
     },
     {
       "id": 5,
       "name": "Road",
-      "category_url": "https://e0.pxfuel.com/wallpapers/200/30/desktop-wallpaper-road-cycling-pro-cycling.jpg",
+      "category_url": "https://wallpapercat.com/w/full/d/b/b/1926067-1920x1080-desktop-1080p-cycling-mountain-bike-wallpaper.jpg ",
       "link": "/category/Road"
     },
     {
@@ -569,7 +569,7 @@
       "name": "Electric",
       "category_url": "https://images.unsplash.com/photo-1700705581212-501252ff0ef0?q=80&w=2133&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "link": "/category/Electric"
-    },  
+    },
     {
       "name": "Run",
       "category_url": "https://res.cloudinary.com/dzne6fm6i/image/upload/v1742995435/ixfpzqzarfc7z6dippfq.webp",
